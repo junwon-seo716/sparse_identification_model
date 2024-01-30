@@ -1,0 +1,300 @@
+----------0----------
+Number of our spurious: 1530
+Number of our nonspurious:21234
+Spurious precision0.06721138639957829
+Spurious recall0.02095431138380629
+---------------------
+----------1----------
+Number of our spurious: 3305
+Number of our nonspurious:10796
+Spurious precision0.23438054038720657
+Spurious recall0.04526405171469267
+---------------------
+----------2----------
+Number of our spurious: 4127
+Number of our nonspurious:7162
+Spurious precision0.3655771104615112
+Spurious recall0.05652185822285526
+---------------------
+----------3----------
+Number of our spurious: 4135
+Number of our nonspurious:6087
+Spurious precision0.40451966347094503
+Spurious recall0.0566314232496987
+---------------------
+----------4----------
+Number of our spurious: 4100
+Number of our nonspurious:5527
+Spurious precision0.42588553027942244
+Spurious recall0.05615207625725868
+---------------------
+----------5----------
+Number of our spurious: 4008
+Number of our nonspurious:5244
+Spurious precision0.43320363164721143
+Spurious recall0.05489207844855922
+---------------------
+----------6----------
+Number of our spurious: 4044
+Number of our nonspurious:5070
+Spurious precision0.4437129690585912
+Spurious recall0.05538512106935466
+---------------------
+----------7----------
+Number of our spurious: 3994
+Number of our nonspurious:4835
+Spurious precision0.45237286215879485
+Spurious recall0.05470033965158321
+---------------------
+----------8----------
+Number of our spurious: 3961
+Number of our nonspurious:4733
+Spurious precision0.4556015642972165
+Spurious recall0.054248383915854057
+---------------------
+----------9----------
+Number of our spurious: 3860
+Number of our nonspurious:4570
+Spurious precision0.4578884934756821
+Spurious recall0.052865125451955736
+---------------------
+----------10----------
+Number of our spurious: 3873
+Number of our nonspurious:4527
+Spurious precision0.4610714285714286
+Spurious recall0.053043168620576314
+---------------------
+----------11----------
+Number of our spurious: 3910
+Number of our nonspurious:4332
+Spurious precision0.4743994176170832
+Spurious recall0.05354990686972718
+---------------------
+----------12----------
+Number of our spurious: 3864
+Number of our nonspurious:4281
+Spurious precision0.4744014732965009
+Spurious recall0.052919907965377454
+---------------------
+----------13----------
+Number of our spurious: 3856
+Number of our nonspurious:4159
+Spurious precision0.4810979413599501
+Spurious recall0.05281034293853402
+---------------------
+----------14----------
+Number of our spurious: 3780
+Number of our nonspurious:4235
+Spurious precision0.47161572052401746
+Spurious recall0.05176947518352142
+---------------------
+----------15----------
+Number of our spurious: 3837
+Number of our nonspurious:4019
+Spurious precision0.48841649694501016
+Spurious recall0.05255012599978087
+---------------------
+----------16----------
+Number of our spurious: 3824
+Number of our nonspurious:4027
+Spurious precision0.48707171061011334
+Spurious recall0.052372082831160294
+---------------------
+----------17----------
+Number of our spurious: 3773
+Number of our nonspurious:3960
+Spurious precision0.4879089615931721
+Spurious recall0.05167360578503342
+---------------------
+----------18----------
+Number of our spurious: 3718
+Number of our nonspurious:3898
+Spurious precision0.4881827731092437
+Spurious recall0.050920346225484824
+---------------------
+----------19----------
+Number of our spurious: 3758
+Number of our nonspurious:3872
+Spurious precision0.4925294888597641
+Spurious recall0.051468171359701984
+---------------------
+----------20----------
+Number of our spurious: 3706
+Number of our nonspurious:3816
+Spurious precision0.49268811486306835
+Spurious recall0.050755998685219676
+---------------------
+----------21----------
+Number of our spurious: 3727
+Number of our nonspurious:3774
+Spurious precision0.49686708438874816
+Spurious recall0.051043606880683684
+---------------------
+----------22----------
+Number of our spurious: 3701
+Number of our nonspurious:3727
+Spurious precision0.4982498653742596
+Spurious recall0.050687520543442534
+---------------------
+----------23----------
+Number of our spurious: 3715
+Number of our nonspurious:3609
+Spurious precision0.5072364827962862
+Spurious recall0.05087925934041854
+---------------------
+----------24----------
+Number of our spurious: 3681
+Number of our nonspurious:3710
+Spurious precision0.49803815451224465
+Spurious recall0.05041360797633396
+---------------------
+----------25----------
+Number of our spurious: 3656
+Number of our nonspurious:3586
+Spurious precision0.5048329190831262
+Spurious recall0.05007121726744823
+---------------------
+----------26----------
+Number of our spurious: 3619
+Number of our nonspurious:3561
+Spurious precision0.5040389972144846
+Spurious recall0.04956447901829736
+---------------------
+----------27----------
+Number of our spurious: 3615
+Number of our nonspurious:3554
+Spurious precision0.5042544287906263
+Spurious recall0.04950969650487565
+---------------------
+----------28----------
+Number of our spurious: 3677
+Number of our nonspurious:3496
+Spurious precision0.5126167572842604
+Spurious recall0.05035882546291224
+---------------------
+----------29----------
+Number of our spurious: 3652
+Number of our nonspurious:3423
+Spurious precision0.5161837455830389
+Spurious recall0.05001643475402651
+---------------------
+----------30----------
+Number of our spurious: 3558
+Number of our nonspurious:3435
+Spurious precision0.5087945087945088
+Spurious recall0.04872904568861619
+---------------------
+----------31----------
+Number of our spurious: 3527
+Number of our nonspurious:3398
+Spurious precision0.5093140794223827
+Spurious recall0.0483044812095979
+---------------------
+----------32----------
+Number of our spurious: 3594
+Number of our nonspurious:3415
+Spurious precision0.5127692966186332
+Spurious recall0.04922208830941163
+---------------------
+----------33----------
+Number of our spurious: 3516
+Number of our nonspurious:3281
+Spurious precision0.5172870383992938
+Spurious recall0.048153829297688175
+---------------------
+----------34----------
+Number of our spurious: 3488
+Number of our nonspurious:3250
+Spurious precision0.5176610270109825
+Spurious recall0.04777035170373617
+---------------------
+----------35----------
+Number of our spurious: 3449
+Number of our nonspurious:3221
+Spurious precision0.5170914542728635
+Spurious recall0.04723622219787444
+---------------------
+----------36----------
+Number of our spurious: 3505
+Number of our nonspurious:3231
+Spurious precision0.5203384798099763
+Spurious recall0.04800317738577846
+---------------------
+----------37----------
+Number of our spurious: 3458
+Number of our nonspurious:3214
+Spurious precision0.5182853717026379
+Spurious recall0.0473594828530733
+---------------------
+----------38----------
+Number of our spurious: 3472
+Number of our nonspurious:3151
+Spurious precision0.5242337309376416
+Spurious recall0.047551221650049304
+---------------------
+----------39----------
+Number of our spurious: 3460
+Number of our nonspurious:3084
+Spurious precision0.5287286063569682
+Spurious recall0.047386874109784156
+---------------------
+----------40----------
+Number of our spurious: 3416
+Number of our nonspurious:3079
+Spurious precision0.5259430331023864
+Spurious recall0.046784266462145285
+---------------------
+----------41----------
+Number of our spurious: 3381
+Number of our nonspurious:3019
+Spurious precision0.52828125
+Spurious recall0.04630491946970527
+---------------------
+----------42----------
+Number of our spurious: 3354
+Number of our nonspurious:2978
+Spurious precision0.5296904611497157
+Spurious recall0.045935137504108686
+---------------------
+----------43----------
+Number of our spurious: 3359
+Number of our nonspurious:2968
+Spurious precision0.5308993203730046
+Spurious recall0.046003615645885836
+---------------------
+----------44----------
+Number of our spurious: 3332
+Number of our nonspurious:2895
+Spurious precision0.5350891279910069
+Spurious recall0.045633833680289254
+---------------------
+----------45----------
+Number of our spurious: 3235
+Number of our nonspurious:2841
+Spurious precision0.532422646477946
+Spurious recall0.044305357729812644
+---------------------
+----------46----------
+Number of our spurious: 3302
+Number of our nonspurious:2828
+Spurious precision0.5386623164763459
+Spurious recall0.045222964829626386
+---------------------
+----------47----------
+Number of our spurious: 3277
+Number of our nonspurious:2755
+Spurious precision0.5432692307692307
+Spurious recall0.04488057412074066
+---------------------
+----------48----------
+Number of our spurious: 3213
+Number of our nonspurious:2715
+Spurious precision0.542004048582996
+Spurious recall0.044004053905993205
+---------------------
+----------49----------
+Number of our spurious: 3228
+Number of our nonspurious:2724
+Spurious precision0.5423387096774194
+Spurious recall0.04420948833132464
+---------------------

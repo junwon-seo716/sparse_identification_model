@@ -1,0 +1,174 @@
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------1----------
+Number of our spurious: 3305
+Number of our nonspurious:10796
+Spurious precision0.23438054038720657
+Spurious recall0.04526405171469267
+---------------------
+----------49----------
+Number of our spurious: 2521
+Number of our nonspurious:9842
+Spurious precision0.20391490738493892
+Spurious recall0.03452667908403637
+---------------------
+----------1----------
+Number of our spurious: 3305
+Number of our nonspurious:10796
+Spurious precision0.23438054038720657
+Spurious recall0.04526405171469267
+---------------------
+----------1----------
+Number of our spurious: 3305
+Number of our nonspurious:10796
+Spurious precision0.23438054038720657
+Spurious recall0.04526405171469267
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------1----------
+Number of our spurious: 3305
+Number of our nonspurious:10796
+Spurious precision0.23438054038720657
+Spurious recall0.04526405171469267
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1387
+Number of our nonspurious:22880
+Spurious precision0.05715580829933655
+Spurious recall0.01899583652897995
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
+----------30----------
+Number of our spurious: 1969
+Number of our nonspurious:14621
+Spurious precision0.11868595539481615
+Spurious recall0.026966692231839597
+---------------------
